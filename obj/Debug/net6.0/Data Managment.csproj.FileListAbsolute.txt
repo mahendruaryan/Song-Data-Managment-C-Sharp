@@ -1,0 +1,90 @@
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+F:\c#\Data Managment\bin\Debug\net6.0\Data Managment.exe
+F:\c#\Data Managment\bin\Debug\net6.0\Data Managment.deps.json
+F:\c#\Data Managment\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+F:\c#\Data Managment\bin\Debug\net6.0\Data Managment.dll
+F:\c#\Data Managment\bin\Debug\net6.0\Data Managment.pdb
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.dll
+F:\c#\Data Managment\obj\Debug\net6.0\refint\Data Managment.dll
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.pdb
+F:\c#\Data Managment\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+F:\c#\Data Managment\obj\Debug\net6.0\ref\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\bin\Debug\net6.0\Data Managment.exe
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\bin\Debug\net6.0\Data Managment.deps.json
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\bin\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\bin\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\refint\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+C:\Users\panka\Downloads\Data-Management-main (1)\Data-Management-main\obj\Debug\net6.0\ref\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\bin\Debug\net6.0\Data Managment.exe
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\bin\Debug\net6.0\Data Managment.deps.json
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\bin\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\bin\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\refint\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+C:\Users\panka\Downloads\Data-Management-main (2)\Data-Management-main\obj\Debug\net6.0\ref\Data Managment.dll
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.dll
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\refint\Data Managment.dll
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\bin\Debug\net6.0\Data Managment.exe
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\bin\Debug\net6.0\Data Managment.deps.json
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\bin\Debug\net6.0\Data Managment.dll
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\bin\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+C:\Users\panka\OneDrive\Desktop\Data-Management-main (3)\Data-Management-main\obj\Debug\net6.0\ref\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\bin\Debug\net6.0\Data Managment.exe
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\bin\Debug\net6.0\Data Managment.deps.json
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\bin\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\bin\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\refint\Data Managment.dll
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.pdb
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+C:\Users\panka\Downloads\Data-Management-main (4)\Data-Management-main\obj\Debug\net6.0\ref\Data Managment.dll
+C:\Data-Management-main\bin\Debug\net6.0\Data Managment.exe
+C:\Data-Management-main\bin\Debug\net6.0\Data Managment.deps.json
+C:\Data-Management-main\bin\Debug\net6.0\Data Managment.runtimeconfig.json
+C:\Data-Management-main\bin\Debug\net6.0\Data Managment.dll
+C:\Data-Management-main\bin\Debug\net6.0\Data Managment.pdb
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.AssemblyReference.cache
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfoInputs.cache
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.AssemblyInfo.cs
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.csproj.CoreCompileInputs.cache
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.dll
+C:\Data-Management-main\obj\Debug\net6.0\refint\Data Managment.dll
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.pdb
+C:\Data-Management-main\obj\Debug\net6.0\Data Managment.genruntimeconfig.cache
+C:\Data-Management-main\obj\Debug\net6.0\ref\Data Managment.dll
